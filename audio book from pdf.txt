@@ -1,0 +1,2 @@
+This Python script builds a GUI application that allows users to convert a PDF file into an audiobook. Using tkinter for the interface, users can select a PDF file via a file dialog. The script extracts text from the PDF using PyPDF2, converts the text into speech using gTTS (Google Text-to-Speech), and saves it as an MP3 file. The user is notified once the audiobook is created, and the file is automatically played using the default media player.
+

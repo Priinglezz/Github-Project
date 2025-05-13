@@ -1,0 +1,1 @@
+This Python script uses the psutil library to monitor and display basic system performance metrics. It prints the current CPU usage percentage and memory usage percentage to the console. This tool can be used to quickly check how much of the system's resources are being used in real-time.
