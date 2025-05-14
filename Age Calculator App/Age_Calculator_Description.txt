@@ -1,0 +1,1 @@
+This Python script creates a simple GUI application using the tkinter library. It allows users to calculate their age by entering their name and date of birth (year, month, and day). When the user clicks the "Submit" button, the program computes their age in years (rounded to 2 decimal places) based on the current date and displays the result on the screen.

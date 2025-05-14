@@ -1,0 +1,1 @@
+This Python script uses the Instaloader library to download content from Instagram posts associated with a specific hashtag. In this case, it targets posts tagged with "nflgame" and downloads up to 10 posts by default. The script can be modified to increase the number of posts downloaded. Content such as images, videos, hashtags, and comments are included in the download.

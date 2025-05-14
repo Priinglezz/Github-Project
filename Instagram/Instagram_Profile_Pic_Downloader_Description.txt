@@ -1,0 +1,1 @@
+This Python script uses the Instaloader library to download the profile picture of any public Instagram user. When executed, it prompts the user to enter an Instagram username and then downloads only the profile picture for that account. This is useful for quick access to a user's current display photo without requiring login credentials.

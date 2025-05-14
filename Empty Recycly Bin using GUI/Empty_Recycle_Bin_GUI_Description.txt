@@ -1,0 +1,1 @@
+This Python script creates a GUI application using tkinter that allows users to empty the Windows Recycle Bin with a single click. It uses the winshell library to perform the Recycle Bin operation without confirmation prompts, while playing a sound. The GUI displays a success or error message depending on whether the action was completed or if the bin was already empty.
